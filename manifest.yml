@@ -1,6 +1,5 @@
 applications:
-  - path: .
-    name: Toolchain Demo
+  - name: Toolchain Demo
     environment_json: {}
     memory: 128M
     instances: 1

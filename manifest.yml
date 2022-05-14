@@ -1,3 +1,4 @@
 applications:
   - name: ToolChain App
+    random-route: True
     memory: 128M
